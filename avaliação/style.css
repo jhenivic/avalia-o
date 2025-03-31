@@ -1,0 +1,12 @@
+body{
+    color:beige;
+    background-color: rgb(78, 35, 117);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 120px;
+    font-size: larger;
+}
