@@ -1,12 +1,23 @@
 body{
-    color:beige;
-    background-color: rgb(78, 35, 117);
+    color: beige;
+    background-color: rgb(163, 87, 235);
 }
 
 ul{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    padding: 120px;
-    font-size: larger;
+    padding: 90px;
+    font-size: large;
+}
+
+img{
+    width: 160px;
+    height: 160px;
+    border-radius: 55%;
+    border: 4px solid rgb(92, 28, 100);
+}
+a{
+    color:beige;
+    text-decoration: none;
 }
